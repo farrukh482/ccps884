@@ -1,0 +1,23 @@
+This project evaludates various Supervised and Unsupervised Machine Learning techniques and evalutes model accuracy, precision and recall.
+
+CLUSTERING: 
+
+  KMeans 
+  Heirarchical
+
+CLASSIFICATION
+  Logistic Regression
+  K-Nearest Neighbors (KNN)
+  Support Vector Machine
+  Decision Tree
+  Bagging (Boosting Aggregations)
+  Random Forest
+  Naiive Baye's
+  i. Guassian Naiive Baye's
+  ii. Multinomial Naiive Baye's
+  iii. Bernoulli Naiive Baye's
+
+
+REGRESSION
+
+  Linear Regression
